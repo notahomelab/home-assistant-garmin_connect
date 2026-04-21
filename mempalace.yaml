@@ -1,0 +1,4 @@
+wing: ha
+rooms:
+- name: garmin
+  description: Garmin Connect blood pressure integration fork
